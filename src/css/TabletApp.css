@@ -1,0 +1,106 @@
+@media (min-width: 761px) and (max-width: 1024px) {
+  .logo {
+    width: 15rem;
+    height: 5rem;
+    top: 35%;
+    left: 30%;
+  }
+  .signIn-btn {
+    margin: 1.125rem 3% 0;
+    padding: 0.7rem 1.0625rem;
+    font-size: 1.5rem;
+  }
+  .header-title {
+    font-size: 2.5rem;
+  }
+  .header-content input {
+    margin: 2rem 8%;
+    padding: 1.2rem 0.7rem;
+    font-size: 1.5rem;
+  }
+  .header-btn {
+    margin: 0 28%;
+  }
+  .tab-door-icon {
+    width: 5rem;
+    height: 5rem;
+    margin-bottom: 0.7rem;
+  }
+  .tab-price-icon {
+    width: 5rem;
+    height: 5rem;
+    margin-bottom: 0.7rem;
+  }
+  .tab-devices-icon {
+    width: 10rem;
+    height: 10rem;
+    margin-bottom: -4.3rem;
+  }
+  .tabs-nav-container {
+    font-size: 1.8rem;
+  }
+  .tab-text-lg {
+    display: none;
+  }
+  .tab-text-sm {
+    display: block;
+  }
+  button {
+    margin: 1rem 18%;
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+  .tab-top-content {
+    display: block;
+  }
+  .footer {
+    padding: 2rem 5rem;
+  }
+
+  .form-container {
+    padding: 1rem 6rem 0;
+    width: 100vw;
+    height: 80vh;
+  }
+  .form-container h3 {
+    margin-bottom: 2rem;
+    font-size: 4rem;
+  }
+  .form-container input {
+    font-size: 2rem;
+    padding: 1.5rem 2.5rem;
+  }
+  .form-container .submit-btn {
+    padding: 1rem 5rem;
+    font-size: 2rem;
+  }
+  .checkbox-container {
+    font-size: 2rem;
+  }
+  .checkbox-container .checkmark {
+    width: 2rem;
+    height: 2rem;
+    margin-right: 1rem;
+  }
+  .need-help {
+    font-size: 2rem;
+  }
+  .form-bottom img {
+    width: 2rem;
+  }
+  .fb-login-text {
+    font-size: 1.7rem;
+  }
+  .sign-up-text {
+    font-size: 1.9rem;
+  }
+  .login-error-msg {
+    font-size: 1rem;
+  }
+  .form-bottom {
+    font-size: 2rem;
+  }
+  .signin {
+    font-size: 1.2rem;
+  }
+}
